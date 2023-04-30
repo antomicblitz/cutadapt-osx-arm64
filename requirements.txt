@@ -1,0 +1,7 @@
+better==2018.4.24
+dnaio==0.10.0
+pytest==7.3.1
+pytest_timeout==2.1.0
+setuptools==67.6.1
+setuptools_scm==7.1.0
+xopen==1.7.0
